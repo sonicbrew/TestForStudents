@@ -9,7 +9,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import static org.testng.AssertJUnit.assertTrue;
 
-public class GoogleSearchAdvanced {
+public class GoogleReusableMethodsAnnotations {
      WebDriver driver = new ChromeDriver();
 
      @BeforeTest
